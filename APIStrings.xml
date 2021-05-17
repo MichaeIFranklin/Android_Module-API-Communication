@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- API Strings -->
+    <string name="api_domain">cruxgov.telvida.com</string>
+    <string name="api_dev_domain">cruxgov.telvida.com</string>
+    <string name="api_scheme">https</string>
+    <string name="api_dev_scheme">https</string>
+    <!-- API Failed Token Strings -->
+    <string name="api_failed_data">FailedIntentData</string>
+    <string name="api_failed_packagefor">FailedIntentPackageFor</string>
+    <string name="api_failed_url">FailedIntentUrl</string>
+    <!-- API Response Categories -->
+    <string name="api_error_unauthorized">Invalid Package</string>
+    <string name="api_error_NotFound">Page Not Found</string>
+    <string name="api_error_unhandled">Unhandled Error</string>
+    <string name="api_error_timedout">Timed Out</string>
+    <string name="api_error_noHost">Unknown Host</string>
+    <string name="api_response_ok">OK</string>
+    <!-- API OAuth Strings -->
+    <string name="stored_client_key">CruxGov</string>
+	<string name="stored_client_code">0</string>
+    <string name="oauth_packagefor_login">OAuthLogin</string>
+    <string name="oauth_endpoint_login">/api/v1/login</string>
+    <string name="oauth_domain">cruxgov.telvida.com</string>
+    <string name="oauth_dev_domain">cruxgov.telvida.com</string>
+    <string name="oauth_scheme">https</string>
+    <string name="oauth_dev_scheme">https</string>
+    <!-- API OAuth Keys -->
+    <string name="oauth_file_authinfo">AuthInfo</string>
+    <string name="oauth_key_client_key">client_key</string>
+	<string name="oauth_key_client_code">client_code</string>
+    <string name="oauth_key_firmware_id">fid</string>
+    <string name="oauth_key_mac">mac</string>
+    <string name="oauth_key_username">email</string>
+    <string name="oauth_key_password">password</string>
+    <string name="oauth_key_token">api_token</string>
+    <string name="oauth_key_logged_in">logged_in</string>
+    <!-- API Resource Strings -->
+    <string name="api_doamin_check">api/v1/ping</string>
+    <string name="api_domain_resource_test">callintegrator.com</string>
+    <string name="api_endpoint_resource_test">/ResourceServer/crux_player/default_video.thmb.png</string>
+    <string name="api_domain_resource_testdev">dev.callintegrator.com</string>
+    <!-- end of API Strings -->
+
+    <!-- Per Application Strings -->
+    <!-- API Response Request Packages -->
+    
+    <!-- API Data Keys -->
+    
+
+</resources>
